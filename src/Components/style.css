@@ -1,0 +1,39 @@
+.container {
+  margin-left: 30px;
+  width: 800px;
+}
+
+.menu-color .search-box {
+  background-color: #d7d7d7;
+}
+
+.form {
+  padding-bottom: 10px;
+}
+
+.product-row {
+  position: relative;
+}
+
+.product {
+  position: relative;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.name {
+  width: 120px;
+}
+
+.price {
+  width: 70px;
+  text-align: right;
+}
+
+.red-text {
+  color: red;
+}
+
+.shade-row {
+  background-color: #d7d7d7;
+}
